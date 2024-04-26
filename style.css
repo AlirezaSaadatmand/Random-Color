@@ -1,0 +1,56 @@
+#body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(235, 236, 240);
+}
+
+#text {
+    margin: 37px 0px 18px 18px;
+    font-size: 2.5rem;
+}
+
+#delete {
+    display: none;
+}
+
+#container {
+    display: inline-grid;
+}
+
+button {
+    box-shadow: -5px -5px 10px #fff, 5px 5px 8px #babebc;
+    display: inline-block;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 15px 45px;
+    margin: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:active {
+    box-shadow: inset 1px 1px 2px #babebc, inset -1px -1px 2px #fff;
+}
+
+#container-2 {
+    margin-top: 15%;
+}
+
+#next {
+    display: none;
+    float: right;
+    position: absolute;
+    bottom: 7%;
+    right: 0%;
+}
+
+#previous {
+    display: none;
+    float: left;
+    position: absolute;
+    bottom: 7%;
+}
