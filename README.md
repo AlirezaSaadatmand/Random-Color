@@ -1,4 +1,4 @@
-This is a JavaScript project that shows random colors each second 
+This is a JavaScript project shows random colors each second 
 
 What you can do :
 
