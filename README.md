@@ -1,4 +1,6 @@
-This is a JavaScript project that shows random colors each second and what you can do :
+This is a JavaScript project that shows random colors each second 
+
+What you can do :
 
 1. STOP and START the loop
 2. SAVE a color and add it to your FAVORITES
